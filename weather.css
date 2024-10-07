@@ -1,0 +1,47 @@
+.weather-app {
+    padding: 20px;
+    background-color: #F2E5BF; 
+    color: #333;
+    text-align: center;
+}
+
+.weather-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.weather-display {
+    background-color: #F2E5BF; 
+    border: 1px solid #CB6040; 
+    padding: 20px;
+    width: 300px;
+    border-radius: 10px; 
+}
+
+.weather-info {
+    margin-top: 10px;
+}
+
+.temperature h2 {
+    color: #257180; 
+    margin: 0;
+}
+
+.weather-details {
+    margin-top: 10px;
+    color: #CB6040; 
+}
+
+
+.weather-display h1 {
+    margin-bottom: 10px;
+    color: #FD8B51; 
+}
+
+.weather-details p {
+    margin: 5px 0;
+    color: #257180; 
+}
