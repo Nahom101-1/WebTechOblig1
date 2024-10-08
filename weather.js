@@ -68,3 +68,4 @@ function displayWeatherForAllCities() {
 
 // Call the function to display weather for all cities on page load
 displayWeatherForAllCities();
+setInterval(updateFunction, 60000);
